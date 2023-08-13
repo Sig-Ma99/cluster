@@ -102,7 +102,7 @@ def finalprompt(concepts_name, p, g):
 
 def output():
     combo = list()
-    for i in range(11):
+    for i in range(10, 11):
         a = list()
         a.append(i)
         a.append(1)
